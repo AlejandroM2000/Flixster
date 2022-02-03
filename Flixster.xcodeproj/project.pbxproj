@@ -103,6 +103,7 @@
 		28AFBF5627A7B14400EF7B83 = {
 			isa = PBXGroup;
 			children = (
+				2802532927AA08C900BB3253 /* README.md */,
 				2802532A27AA0EDD00BB3253 /* Flixster.gif */,
 				2802532B27AA0EDD00BB3253 /* Flixster.mov */,
 				28AFBF6127A7B14400EF7B83 /* Flixster */,
@@ -135,7 +136,6 @@
 				28AFBF6B27A7B14500EF7B83 /* Assets.xcassets */,
 				28AFBF6D27A7B14500EF7B83 /* LaunchScreen.storyboard */,
 				28AFBF7027A7B14500EF7B83 /* Info.plist */,
-				2802532927AA08C900BB3253 /* README.md */,
 			);
 			path = Flixster;
 			sourceTree = "<group>";
